@@ -56,4 +56,4 @@ AttributeError: module 'math' has no attribute 'sine'. Did you mean: 'sin'?
 >>> math.sin(radians)
 0.7071067811865476
 >>> math.sqrt(2)/2.0
-0.7071067811865476
+0.7071067811865476;
